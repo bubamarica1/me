@@ -1,0 +1,154 @@
+body
+{
+
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  text-align: center;
+  font-family: 'Merriweather', sans-serif ;
+
+}
+
+h1
+{
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento',cursive ;
+  color:#66BFBF;
+
+}
+h2
+{
+  font-family: 'Montserrat',sans-serif ;
+  font-size: 2.5rem;
+  color:#66BFBF;
+  font-weight: normal;
+
+
+}
+h3
+{
+  font-family: 'Montserrat',sans-serif ;
+  color:#11999E;
+}
+a
+{
+  color:#11999E;
+}
+.top-container
+{
+
+  position: relative;
+  padding-top:100px;
+  background-color: #EAF6F6;
+
+}
+
+.dole
+{
+  position: absolute;
+  left: 200px;
+  bottom:300px;
+
+}
+
+.gore
+{
+position: absolute;
+right: 200px;
+top:50px;
+}
+.ski
+{
+  text-decoration: underline;
+
+}
+.skill-row
+{
+  width: 50%;
+  margin: 150px auto 150px auto;
+  text-align: left;
+}
+.jedan
+{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.dva
+{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+p
+{
+  color: #40514E;
+}
+hr
+{
+  width: 10%;
+  border-style: dotted;
+  border-top:none;
+  border-left: none;
+  border-right: none;
+  border-bottom-width:5px;
+  border-bottom-color: #EAF6F6;
+
+}
+.myButton {
+	box-shadow:inset 0px 1px 3px 0px #91b8b3;
+	background-color:#9fd4c4;
+	border-radius:5px;
+	border:1px solid #abd6c8;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:11px 23px;
+	text-decoration:none;
+	text-shadow:0px -1px 0px #daebe9;
+  margin: 30px auto 50px auto;
+}
+.myButton:hover {
+
+	background-color:#8ccfcf;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.bottom-container
+{
+  height: 150px;
+  background-color: #66BFBF;
+  padding-top: 30px;
+}
+a
+{
+  margin-right: 20px;
+  text-decoration: none;
+  font-family: "Montserrat", sans-serif;
+
+}
+a:hover
+{
+  color: #EAF6F6;
+}
+.ime{
+  margin-top: 80px;
+  color: #EAF6F6;
+  padding: 20px auto;
+  font-size: 0.75rem;
+}
+.ja
+{
+  margin-top: 20px;
+  width: 20%;
+}
+.middle-container
+{
+  margin-bottom: 70px;
+}
